@@ -1,0 +1,17 @@
+{
+  "name": "Jadwa · جدوى",
+  "short_name": "Jadwa",
+  "id": "/jadwa-free/",
+  "start_url": "/jadwa-free/",
+  "scope": "/jadwa-free/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#1b5c4a",
+  "icons": [
+    {
+      "src": "/jadwa-free/__grok/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
